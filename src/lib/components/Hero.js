@@ -7,8 +7,8 @@ const Hero = () => {
     <div class="hero_main">
       <div class="hero_background">
         <div class="hero_text">
-          <h4>Always make room for beauty in your life</h4>
-          <p gutterBottom className="hero_subtitle">
+          <h4 class="hero_title">Always make room for beauty in your life</h4>
+          <p class="hero_subtitle">
             At Prauge we are passionate about making people feel good while
             looking their best. Attending advanced education allows us to keep
             up with the latest trends and provide each guest with a unique &

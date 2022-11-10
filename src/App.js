@@ -1,10 +1,11 @@
 import './App.css';
+import Hero from './lib';
 
 function App() {
   return (
-    <div className="App">
-      Hello
-    </div>
+    <>
+      <Hero/>
+    </>
   );
 }
 
